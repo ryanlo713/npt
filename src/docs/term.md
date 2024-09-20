@@ -73,7 +73,7 @@
 * 龈后软腭前 postalveo-prevelar: (舌叶 lamino-)：舌背抬高向软腭前而非硬腭
 * 龈后软腭 postalveo-velar: (舌叶 lamino-)：舌背抬高向软腭
 * 硬腭 palatal：硬腭与舌背中部
-* 硬腭后 postpolatal 在硬腭与软腭前之间
+* 硬腭后 postpalatal 在硬腭与软腭前之间
 * 软腭前 prevelar：软腭前与舌背后部
 * 软腭次前 provelar：在软腭前与软腭之间
 * 软腭 velar：软腭与舌背后部
