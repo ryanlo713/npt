@@ -66,11 +66,11 @@
     * 龈次后 back-alveolar：(舌尖 apico-)... 非舌叶；在龈和龈后之间
     * 龈后 postalveolar: (舌尖 apico-)... 非舌叶；属于硬腭前的后半部分
         * 半龈后 semi-postalveolar 出现在半鼻音，与龈后无异
-* 龈后次后 back-postalveolar: (舌尖 apico-)... 非舌叶；
+* 龈再后 back-postalveolar: (舌尖 apico-)... 非舌叶；
 * 舌尖(下)硬腭 (sub)apicopalatal / 硬腭次前 propalatal：硬腭与舌尖
 * 龈后硬腭 postalveo-palatal: (舌叶 lamino-)：
-    * 龈后与舌叶、舌背中部抬高、舌端降低
-    * 龈后与舌叶、舌背中部抬高、舌端抬高
+    * 龈后与舌叶、舌背中部抬高、舌端降低 with lowered tip
+    * 龈后与舌叶、舌背中部抬高、舌端抬高 with raised tip
 * 龈后软腭前 postalveo-prevelar: (舌叶 lamino-)：舌背抬高向软腭前而非硬腭
 * 龈后软腭 postalveo-velar: (舌叶 lamino-)：舌背抬高向软腭
 * 硬腭 palatal：硬腭与舌背中部
