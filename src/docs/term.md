@@ -22,18 +22,19 @@
     * 槽半狭音 Grooved Semiconstrictive: `C#5a:...`：狭音与近音间的中间体
 * 近音 Approximant: `C#7:...`
 * 边化近音 Lateralized Approximant: `C#8:...` 与术语边近音不同
+    * 舌叶边化近音 Lamino-lateralized approximant
+    * 舌背边化近音 Dorso-lateralized approximant
 * 颤音 Trill: `C#9:...`
 * 颤塞狭音 Trilled Stop-Strictive: `C#B:...`
 * 狭颤音 Constrictive Trill: `C#A:...` 对应 offIPA 术语颤擦音 Trilled Fricative
 * 弹音 Tap: `C#B:...`
 * 弹塞狭音 Tapped Stop-Strictive: `C#B:...`
 * 闪音 Flap: `C#C:...`
-
-* 边（近）音 Lateral (Appr.): `C#D:...`
+* 边(近)音 Lateral (Appr.): `C#D:...`
 * 边塞狭音 Lateral Stop-Strictive: `C#3a:...` 对应术语 offIPA 边塞擦音 Lateral Affricate
 * 边狭音 Lateral Constrictive: `C#E:...` 对应 offIPA 术语边擦音
     * 边半狭音 Lateral Semiconstrictive: `C#Ea:...`
-* 单边（近）音 Unilateral (Appr.): `C#F:...`
+* 单边(近)音 Unilateral (Appr.): `C#F:...`
 * 半边音 Semilateral: `C#G:...`
 * 边弹音 Lateral tap: `C#H:...`
 *..
@@ -42,7 +43,7 @@
 
 主动调音部位
 * 舌冠 coronal
-    * 舌尖 apical 包括下舌尖 subapical
+    * 舌尖 apical 包括舌尖下 subapical
     * 舌叶 laminal
 * 舌背 dorsal
     * 舌背前部 predorsal
@@ -106,7 +107,7 @@
 圆唇 rounded
 半突唇 half-protruded
 突唇 protruded
-过圆唇 over-rounded：圆唇&突唇同时
+过度圆唇 over-rounded：圆唇&突唇同时
 
 次要调音
 
