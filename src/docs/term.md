@@ -66,7 +66,7 @@
     * 龈次后 back-alveolar：(舌尖 apico-)... 非舌叶；在龈和龈后之间
     * 龈后 postalveolar: (舌尖 apico-)... 非舌叶；属于硬腭前的后半部分
         * 半龈后 semi-postalveolar 出现在半鼻音，与龈后无异
-* 龈再后 back-postalveolar: (舌尖 apico-)... 非舌叶；
+* 龈后后 back-postalveolar: (舌尖 apico-)... 非舌叶；
 * 舌尖(下)硬腭 (sub)apicopalatal / 硬腭次前 propalatal：硬腭与舌尖
 * 龈后硬腭 postalveo-palatal: (舌叶 lamino-)：
     * 龈后与舌叶、舌背中部抬高、舌端降低 with lowered tip
@@ -98,16 +98,15 @@
 * 唇齿-龈前 labiodental-prepalatal
 * 软腭-双唇 velar-bilabial
 * 软腭-齿 velar-dental
-*
+* ……
 
 
 其他参数
 
-
-圆唇 rounded
-半突唇 half-protruded
-突唇 protruded
-过度圆唇 over-rounded：圆唇&突唇同时
+* 圆唇 rounded
+* 半突唇 half-protruded
+* 突唇 protruded
+* 过度圆唇 over-rounded：圆唇&突唇同时
 
 次要调音
 
@@ -128,4 +127,6 @@
 * 咽化 pharyngealized
 * 唇硬腭化 labio-palatalized
 * 小舌龈后化 uvulo-postalveolarized
+* 小舌咽化 uvulo-pharyngealized
+* ……
 
